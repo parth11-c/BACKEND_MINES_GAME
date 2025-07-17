@@ -62,14 +62,8 @@ Contributions are welcome! Fork the repo, create a new branch, and submit a pull
 ⭐ Show your support
 If you like this project, give it a ⭐ on GitHub!
 
-
 ---
 
-✅ Do you want me to:
-- **Make this README visually appealing with badges, emojis, and section icons?**
-- **Generate all 4 README files (Portfolio, Sem6 Project, DSA, Mines Game) as `.md` files in a single ZIP for you to download right now?**  
-Or  
-- **Provide individual download links for each README?**
 
 
 
