@@ -47,7 +47,7 @@ cd BACKEND_MINES_GAME
 spring.data.mongodb.uri=mongodb://localhost:27017/minesdb
 mvn spring-boot:run
 ```
-🔗 API Endpoints
+🔗 API Endpoints(JUST FEW)
 
 | Method | Endpoint           | Description             |
 | ------ | ------------------ | ----------------------- |
